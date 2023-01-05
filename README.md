@@ -2,5 +2,5 @@
 
 ## Vanilla Javascript
 
-Simple project build in Vanilla Javascript. It is vertical slider which has three images and descriptions.
+Simple project built in Vanilla Javascript. It is vertical slider which has three images and descriptions.
 
